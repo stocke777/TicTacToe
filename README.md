@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe with Computer
+Tic Tac Toe with simple Computer AI
